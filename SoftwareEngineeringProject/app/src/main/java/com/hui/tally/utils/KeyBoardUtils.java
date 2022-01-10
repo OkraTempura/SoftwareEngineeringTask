@@ -81,7 +81,6 @@ public class KeyBoardUtils {
         public void swipeUp() {
         }
     };
-
 //    显示键盘
     public void showKeyboard(){
         int visibility = keyboardView.getVisibility();
@@ -89,7 +88,6 @@ public class KeyBoardUtils {
             keyboardView.setVisibility(View.VISIBLE);
         }
     }
-
 //    隐藏键盘
     public void hideKeyboard(){
         int visibility = keyboardView.getVisibility();

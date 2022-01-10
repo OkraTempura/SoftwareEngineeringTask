@@ -14,7 +14,7 @@ import java.util.List;
 
 /*
 * 负责管理数据库的类
-*   主要对于表当中的内容进行操作，增删改查
+* 对表当中的内容进行操作，增删改查
 * */
 public class DBManager {
 
